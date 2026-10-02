@@ -1,0 +1,13 @@
+16G4A05	P218	Herbiconiux sp.L3-i23	1	P218_scaffolds.fasta
+23G1B02	P211	Rathayibacter sp.VKM	1	P211_scaffolds.fasta
+23G1B03	P009	Microbacterium sp.CGR1	1	P009_scaffolds.fasta
+23G2A06	P183	Clavibacter michiganensis	1	P183_scaffolds.fasta
+23G4A06	P156	Clavibacter zhangzhiyongii	1	P156_scaffolds.fasta
+23G4B12	P107	Frigoribacterium sp.NBH87	1	P107_scaffolds.fasta
+24G1B02	P220	Frondihabitans sp.762G35	1	P220_scaffolds.fasta
+25D03	P188	Herbiconiux sp.SALV-R1	1	P188_scaffolds.fasta
+26D06	P217	Bacillus subtilis	1	P217_scaffolds.fasta
+26G4A02	P207	Mycobacterium sp.djl-10	1	P207_scaffolds.fasta
+35G1A11	P002	Bacillus pacificus	1	P002_scaffolds.fasta
+35G2A04	P066	Pseudomonas graminis	1	P066_scaffolds.fasta
+35G2B10	P142	Leifsonia sp.PS1209	1	P142_scaffolds.fasta

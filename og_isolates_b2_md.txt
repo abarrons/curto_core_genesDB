@@ -1,0 +1,24 @@
+02G1A05	P093	Clavibacter phaseoli	2	P093_scaffolds.fasta
+02G1B09	P098	Bacillus inaquosorum	2	P098_scaffolds.fasta
+04G2A01	P050	Clavibacter michiganensis	2	P050_scaffolds.fasta
+04G4A09	P053	Pseudoclavibacter triregionum	2	P053_scaffolds.fasta
+08D06	P186	Microbacterium sp. CGR1	2	P186_scaffolds.fasta
+08G1B06	P200	Plantibacter sp. M259	2	P200_scaffolds.fasta
+08G3A06	P146	Sphingomonas sp. LM7	2	P146_scaffolds.fasta
+09G1B13	P136	Rathayibacter festucae	2	P136_scaffolds.fasta
+11D01	P193	Pseudomonas congelans	2	P193_scaffolds.fasta
+11D07	P180	Pseudomonas viridiflava	2	P180_scaffolds.fasta
+12G1B04	P131	Rathayibacter sp. VKM Ac-2759	2	P131_scaffolds.fasta
+12G4A09	P209	Pseudomonas sp. R5-89-07	2	P209_scaffolds.fasta
+18G4B08	P155	Frigoribacterium sp. NBH87	2	P155_scaffolds.fasta
+19G4A02	P135	Leifsonia sp. PS1209	2	P135_scaffolds.fasta
+20G3A03	P121	Sphingomonas aerolata	2	P121_scaffolds.fasta
+20G4A06	P199	Agreia sp. COWG	2	P199_scaffolds.fasta
+24D07	P046	Microbacterium sp. SSW1-36	2	P046_scaffolds.fasta
+24G1A02	P022	Frondihabitans sp. 762G35	2	P022_scaffolds.fasta
+26G3A09	P097	Microbacterium sp. 1.5R	2	P097_scaffolds.fasta
+30G3B03	P019	Pseudomonas atacamensis	2	P019_scaffolds.fasta
+32D09	P058	Pseudomonas rhizosphaerae	2	P058_scaffolds.fasta
+36G4A02	P189	Bacillus cereus	2	P189_scaffolds.fasta
+39G1B02	P086	Plantibacter sp. PA-3-X8	2	P086_scaffolds.fasta
+41G4A08	P205	Sphingomonas taxi	2	P205_scaffolds.fasta

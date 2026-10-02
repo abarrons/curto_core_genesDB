@@ -1,0 +1,15 @@
+Agreia	110934
+Bacillus	55087
+Clavibacter	1573
+Curtobacterium	2034
+Frigoribacterium	96492
+Frondihabitans	447237
+Herbiconiux	881616
+Leifsonia	110932
+Leucobacter	55968
+Microbacterium	33882
+Mycobacterium	1763
+Pseudoclavibacter	255204
+Pseudomonas	286
+Rathayibacter	33886
+Sphingomonas	13687
